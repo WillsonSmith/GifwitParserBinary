@@ -1,4 +1,5 @@
 # GifwitParserBinary
+Erlang VM required.
 
 This is a command line tool for [GifwitLibraryParser](https://github.com/WillsonSmith/GifwitLibraryParser). It allows you to download all gifs from your gifwit library.
 
